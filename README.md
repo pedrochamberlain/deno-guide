@@ -1,8 +1,8 @@
 # Deno Beginner's Guide
 <div>
   <img align="left" width="300px" src="https://i.imgur.com/NOdthAs.png">
-  <div align="right">
-    <h3 align="left">Deno</h3>
+  <div>
+    <h3>Deno</h3>
     <p>A secure runtime for <strong>JavaScript</strong> and <strong>TypeScript</strong>.</p>
   </div>
 </div>
