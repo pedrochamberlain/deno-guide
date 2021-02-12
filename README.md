@@ -9,7 +9,7 @@
 
 ## What is Deno?
 Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses Chrom's V8 engine and is built in Rust programming language, developed by the same cretor of <a href="https://github.com/pedrochamberlain/nodejs-guide">Node.js</a>, Ryan Dahl. 
-<br><br>
+<br><br><br>
 ### What are the main differences between Deno and Node.js?
 - **Core:** Deno’s core is written in Rust programming language (core emphasis on safety) and Tokio. Node.js was built with C++.
 - **Security:** Node.js allows seamless access encompassing filesystem, outgoing requests, environment variables, and more. While it is indeed a privilege to avail such access, there is also a flipside. This unrestricted access opens up a world of risks during the development or coding process. Deno takes security as it's  focal point, demanding explicit permissions for file, network and environment access.
